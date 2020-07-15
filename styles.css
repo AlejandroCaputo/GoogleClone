@@ -82,6 +82,9 @@ body{
     margin: 0px;
     padding: 0px;
 
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 footer{
@@ -96,7 +99,7 @@ footer{
     border-top: 1px solid #e4e4e4;
     position: relative;
     clear: both;
-    margin-top: 220px;
+    margin-top: auto;
 }
 
 .leftside{
