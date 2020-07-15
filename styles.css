@@ -1,0 +1,27 @@
+
+
+.centerblock{   
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 30%;
+    padding-left: 300px;
+    
+}
+
+.centerblock input{   
+    width: 500px;
+}
+
+.centerblock button{   
+    margin: 20px 10px;
+    
+}
+
+.searchbar{
+    display: flex;
+    justify-content: center;
+    width: 600px;
+    margin-top: 20px;
+    background-color: black;
+}
