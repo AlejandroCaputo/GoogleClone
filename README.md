@@ -17,9 +17,9 @@ My aproach 📜 :
 Main problems i've found 💡:
 
  - It's still not super clear to me the **implementation of flexbox**
- - Centering content in the middle of the page (solved)
+ - Centering content in the middle of the page (**solved**)
  - I need to strenghten my layout abilities (**css grid**, flexbox...)
- - Problems getting the **footer** to stick allways down on the page
+ - Problems getting the **footer** to stick allways down (**solved**)
  - **images get deformed** when im using flexbox
 
 
