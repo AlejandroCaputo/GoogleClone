@@ -1,6 +1,8 @@
 # Google Clone!
 The objective with this project is to test my abilities with html and css to build a really simple google clone. This will help me to identify my weak points and work on them so i can get a little bit closer to the objective of being a versatile front-end developer 💻.
 
+[https://alejandrocaputo.github.io/GoogleClone/google.html](https://alejandrocaputo.github.io/GoogleClone/google.html)
+
 My aproach 📜 :
 
  -  💾 Save all the **images and icons** i'll need for the project 
@@ -19,4 +21,6 @@ Main problems i've found 💡:
  - I need to strenghten my layout abilities (**css grid**, flexbox...)
  - Problems getting the **footer** to stick allways down on the page
  - **images get deformed** when im using flexbox
- - 
+
+
+
